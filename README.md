@@ -4,6 +4,7 @@ Website bán hàng nhỏ có CRUD và thêm giỏ hàng + thanh toán stripe s�
 ## Thứ tự làm trong phần branches
 - Version 1: phát triển về CRUD category và product + UI (Có thể xem video khóa học ở dưới)
 - Version 2: phân quyền, sử dụng tính năng có sẵn scaff Identity (xem ở folder 8 trong khóa học **Folder 8**)
+- Version 3: phát triển về CRUD company + UI (Có thể xem video khóa học ở dưới)
 
 ## Đang trong quá trình phát triển có thể sẽ là sai sót vì mới sử dụng net core
 
