@@ -7,4 +7,4 @@ Website bán hàng nhỏ có CRUD và thêm giỏ hàng + thanh toán stripe s�
 
 ## Đang trong quá trình phát triển có thể sẽ là sai sót vì mới sử dụng net core
 
-## 🖥️ Link khóa học free này mình up lên thôi: [BDC25](https://helurl.com/drive/s/loj5HLw7GsrftdLdXUkTBRZnZHtPaX)
+## 🖥️ Link khóa học free này mình up lên thôi: [COURSE](https://helurl.com/drive/s/loj5HLw7GsrftdLdXUkTBRZnZHtPaX)
