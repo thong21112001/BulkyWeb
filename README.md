@@ -7,6 +7,7 @@ Website bán hàng nhỏ có CRUD và thêm giỏ hàng + thanh toán stripe s�
 - Version 3: phát triển về CRUD company + UI (Có thể xem video khóa học ở dưới bắt đầu từ **Folder 9**)
 - Version 4: thêm sản phẩm vào giỏ hàng và chỉnh sửa số lượng + tổng tiền giỏ hàng + UI (Có thể xem video khóa học ở dưới bắt đầu từ **Folder 10**)
 - Version 5: Tích hợp thanh toán bằng Stripe và tạo thêm bảng OrderHeader + OrderDetail phần này là khó nhất vì có nhiều không hiểu (Có thể xem video khóa học ở dưới bắt đầu từ Folder 11)
+- Version 6: Quản lý đơn hàng + xác nhận các quy trình + thực hiện hoàn tiền nếu có yêu cầu (Có thể xem video khóa học ở dưới bắt đầu từ Folder 12)
 
 ## Đang trong quá trình phát triển có thể sẽ là sai sót vì mới sử dụng net core
 
